@@ -1,0 +1,10 @@
+@media only screen and (max-width: 90%) {
+    
+	button{
+		max-width:90%;
+	}
+	
+	iframe{
+    max-width: 90%;
+	}
+}
